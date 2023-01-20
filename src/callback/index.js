@@ -14,4 +14,4 @@ function grettin(name) {
     console.log(`hola ${name}`);
 }
 
-setTimeout(grettin, 2000, 'jona');
+setTimeout(grettin , 2000, 'jona');
